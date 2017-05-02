@@ -39,6 +39,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'capybara'
   gem 'haml'
+  gem 'rspec-collection_matchers'
 end
 
 group :development do
